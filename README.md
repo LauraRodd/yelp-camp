@@ -6,7 +6,7 @@ A *node.js* web application built as the final project for [The Web Developer Bo
 
 See the full live demo [*here*](https://laura-yelpcamp-app.herokuapp.com/)
 
-#Tools and technologies used:
+### Tools and technologies used:
 
 - Express.js
 - Node.js
